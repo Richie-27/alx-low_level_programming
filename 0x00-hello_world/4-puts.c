@@ -1,5 +1,6 @@
+/*Using function puts to print*/
 # include <stdio.h>
-/* Using function puts to print*/
+/* Description: main - Prints out a string to stdout.*/
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
